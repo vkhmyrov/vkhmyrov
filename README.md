@@ -5,14 +5,6 @@
 - 📫 How to reach me ...
 
 <hr>
-
- <h3>Tools</h3>
- <div style="display: inline_block">
-  <img align="center" alt="vscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"/>
-  <img align="center" alt="figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"/>
-  <img align="center" alt="photoshop" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg"/>
- </div>
- <br>
  <h3>Technologies</h3>
   <div style="display: inline_block">
   <img align="center" alt="Lari-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
@@ -23,7 +15,15 @@
   <img align="center" alt="Lari-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img align="center" alt="Lari-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
   <img align="center" alt="Lari-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg"/>
-</div>
+ </div>
+ <br>
+ <h3>Tools</h3>
+ <div style="display: inline_block">
+  <img align="center" alt="vscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"/>
+  <img align="center" alt="figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"/>
+  <img align="center" alt="photoshop" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg"/>
+ </div>
+
 
 <!---
 vkhmyrov/vkhmyrov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
