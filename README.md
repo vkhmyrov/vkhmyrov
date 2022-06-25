@@ -29,7 +29,7 @@
   <tr>
     <td align="center">
       <a href="https://anchor.fm/no-me-da-la-vida/episodes/0-7---Para-hablar-de-cambios-con-Concha-Asensio-e16mu58">
-        <img src="https://github.com/conchaasensio/conchaasensio/blob/main/images/nmdlv_podcast.jpeg" width="150px" alt="Landing page KENT™"/>
+        <img src="https://www.behance.net/gallery/127570699/Landing-page-KENT-%28COPY%29" width="150px" alt="Landing page KENT™"/>
         <br />
         <sub>
           <b>Para hablar de cambios con Concha Asensio - Podcast No me da la vida</b>
