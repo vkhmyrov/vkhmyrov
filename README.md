@@ -23,7 +23,8 @@
   <img align="center" alt="figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"/>
   <img align="center" alt="photoshop" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg"/>
  </div>
- ## Portfolio
+ <br>
+## Portfolio
 <table>
   <tr>
     <td align="center">
