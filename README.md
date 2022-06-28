@@ -47,6 +47,16 @@
       </a>
       <br />
     </td>
+        <td align="center">
+      <a href="https://www.behance.net/gallery/127570699/Landing-page-KENT-%28COPY%29">
+        <img src="https://mir-s3-cdn-cf.behance.net/projects/max_808/08c87f127570699.Y3JvcCwxNDAzLDEwOTgsMCw2NDQ.jpg" width="150px" alt="Landing page KENT™"/>
+        <br />
+        <sub>
+          <b>Landing page KENT™</b>
+        </sub>
+      </a>
+      <br />
+    </td>
 
 
 <!---
