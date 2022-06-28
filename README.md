@@ -42,7 +42,7 @@
         <img src="https://mir-s3-cdn-cf.behance.net/projects/max_808/db62a123413411.54d8d0ed2a323.png" width="150px" alt="Landing page KENT™"/>
         <br />
         <sub>
-          <b>Landing page KENT™</b>
+          <b>RESUME (Graphic Designer)</b>
         </sub>
       </a>
       <br />
