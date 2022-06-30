@@ -52,7 +52,7 @@
         <img src="vkhmyrov.github.io/main-academy/" width="150px" alt="Landing page KENT™"/>
         <br />
         <sub>
-          <b>Landing page KENT™</b>
+          <b>ShowTrack</b>
         </sub>
       </a>
       <br />
