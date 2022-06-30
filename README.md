@@ -48,8 +48,8 @@
       <br />
     </td>
         <td align="center">
-      <a href="vkhmyrov.github.io/main-academy/">
-        <img src="vkhmyrov.github.io/main-academy/" width="150px" alt="Landing page KENT™"/>
+      <a href="https://vkhmyrov.github.io/MAIN-ACADEMY/">
+        <img src="https://vkhmyrov.github.io/MAIN-ACADEMY/" width="150px" alt="Landing page KENT™"/>
         <br />
         <sub>
           <b>ShowTrack</b>
