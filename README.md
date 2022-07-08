@@ -18,11 +18,11 @@
  <br>
  <h3>Libraries</h3>
    <div style="display: inline_block">
-    <img align="center" alt="logo Jqery" height="30" width="40" src="Logo/jquery_logo.svg"/>
-    <img align="center" alt="logo Vue.js" height="30" width="40" src="Logo/Vue.js_Logo.svg"/>
+    <img align="center" alt="logo Jqery" height="30" width="40" src="logo/jquery_logo.svg"/>
+    <img align="center" alt="logo Vue.js" height="30" width="40" src="logo/Vue.js_Logo.svg"/>
     <img align="center" alt="Lari-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
-    <img align="center" alt="logo Angular" height="30" width="40" src="Logo/Angular_full_color_logo.svg"/> 
-    <img align="center" alt="logo Node-js" height="30" width="40" src="Logo/cdnlogo.com_node-js.svg"/> 
+    <img align="center" alt="logo Angular" height="30" width="40" src="logo/Angular_full_color_logo.svg"/> 
+    <img align="center" alt="logo Node-js" height="30" width="40" src="logo/cdnlogo.com_node-js.svg"/> 
 
 
    <img align="center" alt="Lari-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/>
