@@ -33,6 +33,7 @@
   <img align="center" alt="logo Zeplin" height="30" width="40" src="logo/logo_Zeplin-60x48.svg"/>
   <img align="center" alt="figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"/>
   <img align="center" alt="photoshop" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg"/>
+  <img align="center" alt="logo Sketch" height="30" width="40" src="logo/Sketch_Logo.svg"/>
  </div>
  <br>
 <h3>Portfolio</h3>
