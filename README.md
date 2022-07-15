@@ -70,8 +70,8 @@
       <br />
     </td>
         <td align="center">
-      <a href="https://www.behance.net/gallery/127570699/Landing-page-KENT-%28COPY%29">
-        <img src="https://mir-s3-cdn-cf.behance.net/projects/max_808/08c87f127570699.Y3JvcCwxNDAzLDEwOTgsMCw2NDQ.jpg" width="150px" alt="Landing page KENT™"/>
+      <a href="https://www.behance.net/gallery/53613211/Internet-banking-UxUi-SkyBank">
+        <img src="https://mir-s3-cdn-cf.behance.net/projects/max_808/0b922f53613211.Y3JvcCwxMjM0LDk2NiwyMTAsMTk4.png" width="150px" alt="Landing page KENT™"/>
         <br />
         <sub>
           <b>Landing page KENT™</b>
@@ -84,7 +84,7 @@
         <img src="https://mir-s3-cdn-cf.behance.net/projects/max_808/08c87f127570699.Y3JvcCwxNDAzLDEwOTgsMCw2NDQ.jpg" width="150px" alt="Landing page KENT™"/>
         <br />
         <sub>
-          <b>Landing page KENT™</b>
+          <b>Internet banking Ux/Ui - SkyBank</b>
         </sub>
       </a>
       <br />
