@@ -80,11 +80,11 @@
       <br />
     </td>
          <td align="center">
-      <a href="https://www.behance.net/gallery/127570699/Landing-page-KENT-%28COPY%29">
-        <img src="https://mir-s3-cdn-cf.behance.net/projects/max_808/08c87f127570699.Y3JvcCwxNDAzLDEwOTgsMCw2NDQ.jpg" width="150px" alt="Landing page KENT™"/>
+      <a href="https://www.behance.net/gallery/43744471/Website-iPAX">
+        <img src="https://mir-s3-cdn-cf.behance.net/projects/max_808/31157543744471.Y3JvcCwxMTA2LDg2NSw5Miww.jpeg" width="150px" alt="Landing page KENT™"/>
         <br />
         <sub>
-          <b>Internet banking Ux/Ui - SkyBank</b>
+          <b>Website IPAX</b>
         </sub>
       </a>
       <br />
