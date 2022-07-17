@@ -51,7 +51,7 @@
     </td>
     <td align="center">
       <a href="https://www.behance.net/gallery/23413411/RESUME-%28Graphic-Designer%29">
-        <img src="https://mockupfree.co/wp-content/uploads/PV_SM_Free_Apple_Watch_Series_7_Mockup2.jpg" width="150px" alt="Landing page KENT™"/>
+        <img src="https://mockupfree.co/wp-content/uploads/f.jpg" width="150px" alt="Landing page KENT™"/>
         <br />
         <sub>
           <b>RESUME (Graphic Designer)</b>
