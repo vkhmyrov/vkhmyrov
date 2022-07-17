@@ -41,7 +41,7 @@
   <tr>
     <td align="center">
       <a href="https://www.behance.net/gallery/127570699/Landing-page-KENT-%28COPY%29">
-        <img src="https://mir-s3-cdn-cf.behance.net/projects/max_808/08c87f127570699.Y3JvcCwxNDAzLDEwOTgsMCw2NDQ.jpg" width="150px" alt="Landing page KENT™"/>
+        <img src="https://mockupfree.co/wp-content/uploads/Small_Pv_Free_Laptop_Mockup_Set.jpg" width="150px" alt="Landing page KENT™"/>
         <br />
         <sub>
           <b>Landing page KENT™</b>
@@ -81,7 +81,7 @@
     </td>
          <td align="center">
       <a href="https://www.behance.net/gallery/43744471/Website-iPAX">
-        <img src="https://mockupfree.co/wp-content/uploads/Small_Pv_Free_Laptop_Mockup_Set.jpg" width="150px" alt="Landing page KENT™"/>
+        <img src="https://mockupfree.co/wp-content/uploads/PV_SM_Free_Apple_Watch_Series_7_Mockup2.jpg" width="150px" alt="Landing page KENT™"/>
         <br />
         <sub>
           <b>Website IPAX</b>
