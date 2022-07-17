@@ -71,7 +71,7 @@
     </td>
         <td align="center">
       <a href="https://www.behance.net/gallery/53613211/Internet-banking-UxUi-SkyBank">
-        <img src="https://mir-s3-cdn-cf.behance.net/projects/max_808/0b922f53613211.Y3JvcCwxMjM0LDk2NiwyMTAsMTk4.png" width="150px" alt="Landing page KENT™"/>
+        <img src="https://www.free-mockup.com/wp-content/uploads/edd/2018/05/iPhone-X-Mockup-Free-Changeable-Color.jpg" width="150px" alt="Landing page KENT™"/>
         <br />
         <sub>
           <b>Landing page KENT™</b>
