@@ -44,7 +44,7 @@
         <img src="https://mockupfree.co/wp-content/uploads/Small_Pv_Free_Laptop_Mockup_Set.jpg" width="150px" alt="Landing page KENT™"/>
         <br />
         <sub>
-          <b>Landing page KENT™</b>
+          <b>Websites</b>
         </sub>
       </a>
       <br />
@@ -54,7 +54,7 @@
         <img src="https://mockupfree.co/wp-content/uploads/f.jpg" width="150px" alt="Landing page KENT™"/>
         <br />
         <sub>
-          <b>RESUME (Graphic Designer)</b>
+          <b>Emails</b>
         </sub>
       </a>
       <br />
