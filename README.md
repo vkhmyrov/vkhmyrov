@@ -50,11 +50,11 @@
       <br />
     </td>
     <td align="center">
-      <a href="https://www.behance.net/gallery/23413411/RESUME-%28Graphic-Designer%29">
+      <a href="https://vkhmyrov.github.io/HTML-CSS/">
         <img src="https://mockupfree.co/wp-content/uploads/f.jpg" width="150px" alt="Landing page KENT™"/>
         <br />
         <sub>
-          <b>Emails</b>
+          <b>Email's</b>
         </sub>
       </a>
       <br />
