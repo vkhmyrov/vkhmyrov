@@ -81,7 +81,7 @@
     </td>
          <td align="center">
       <a href="https://www.behance.net/gallery/43744471/Website-iPAX">
-        <img src="https://www.exactls.com/wp-content/uploads/2022/05/dashboard-mockup-1.png" width="150px" alt="Landing page KENT™"/>
+        <img src="https://mockupfree.co/wp-content/uploads/Small_Pv_Free_Laptop_Mockup_Set.jpg" width="150px" alt="Landing page KENT™"/>
         <br />
         <sub>
           <b>Website IPAX</b>
