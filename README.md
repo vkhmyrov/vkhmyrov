@@ -61,7 +61,7 @@
     </td>
         <td align="center">
       <a href="https://vkhmyrov.github.io/MAIN-ACADEMY/">
-        <img src="https://vkhmyrov.github.io/MAIN-ACADEMY/img/iphone-x-mockup@2x.png" width="150px" alt="Landing page KENT™"/>
+        <img src="https://mockupfree.co/wp-content/uploads/Small_Preview_2_iphone-xr-design-mockup.jpg" width="150px" alt="Landing page KENT™"/>
         <br />
         <sub>
           <b>Mob application's</b>
