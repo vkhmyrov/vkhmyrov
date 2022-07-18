@@ -44,7 +44,7 @@
         <img src="https://mockupfree.co/wp-content/uploads/Small_Pv_Free_Laptop_Mockup_Set.jpg" width="150px" alt="Landing page KENT™"/>
         <br />
         <sub>
-          <b>Websites</b>
+          <b>Website's</b>
         </sub>
       </a>
       <br />
@@ -64,7 +64,7 @@
         <img src="https://vkhmyrov.github.io/MAIN-ACADEMY/img/iphone-x-mockup@2x.png" width="150px" alt="Landing page KENT™"/>
         <br />
         <sub>
-          <b>ShowTrack</b>
+          <b>Mob application's</b>
         </sub>
       </a>
       <br />
