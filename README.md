@@ -64,27 +64,17 @@
         <img src="https://mockupfree.co/wp-content/uploads/Small_Preview_2_iphone-xr-design-mockup.jpg" width="150px" alt="Landing page KENT™"/>
         <br />
         <sub>
-          <b>Mob application's</b>
+          <b>Application's</b>
         </sub>
       </a>
       <br />
     </td>
         <td align="center">
       <a href="https://www.behance.net/gallery/53613211/Internet-banking-UxUi-SkyBank">
-        <img src="https://www.onlineoptimism.com/wp-content/uploads/2021/02/SiteMockups.png" width="150px" alt="Landing page KENT™"/>
-        <br />
-        <sub>
-          <b>Landing page KENT™</b>
-        </sub>
-      </a>
-      <br />
-    </td>
-         <td align="center">
-      <a href="https://www.behance.net/gallery/43744471/Website-iPAX">
         <img src="https://mockupfree.co/wp-content/uploads/PV_SM_Free_Apple_Watch_Series_7_Mockup2.jpg" width="150px" alt="Landing page KENT™"/>
         <br />
         <sub>
-          <b>Website IPAX</b>
+          <b>Wear OS App</b>
         </sub>
       </a>
       <br />
