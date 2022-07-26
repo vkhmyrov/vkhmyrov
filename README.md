@@ -18,7 +18,6 @@
  <br>
  <h3>Libraries</h3>
    <div style="display: inline_block">
-    <img align="center" alt="logo Vue.js" height="30" width="40" src="logo/logo_Vue-js.svg"/>
     <img align="center" alt="logo Jqery" height="30" width="40" src="logo/logo_Jquery.svg"/>
     <img align="center" alt="Lari-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
     <img align="center" alt="logo Angular" height="30" width="40" src="logo/logo_Angular.svg"/> 
